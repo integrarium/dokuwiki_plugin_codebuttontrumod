@@ -1,0 +1,7 @@
+base   codebuttontrumod
+author Alexey Trushnikov
+email  integrarium@gmail.com
+date   2019-08-04
+name   codebuttontrumod plugin
+desc   Inserts a code button into the toolbar.
+url    https://github.com/integrarium/dokuwiki_plugin_codebuttontrumod
